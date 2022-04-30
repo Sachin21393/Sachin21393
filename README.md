@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  #### I make elegantly professional 🌍 web apps.
- -🎓 Pursuing B.Tech in Computer Science and Engineering
+ - Pursuing B.Tech in Computer Science and Engineering.
+ - Skilled in C++/C and JavaScript. Versed with C and Java.
+ - Enjoying competitive programming and problem solving.
+ - Comfortable working with Node.js (Express.js) , CSS , Javascript , MongoDB , MySQL.
+ - Do read my resume here: Sachin’s resume
 
 
 
