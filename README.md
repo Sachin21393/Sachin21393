@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  - Skilled in C++/C and JavaScript. Versed with C and Java.
  - Enjoying competitive programming and problem solving.
  - Comfortable working with Node.js (Express.js) , CSS , Javascript , MongoDB , MySQL.
- - Do read my resume here: Sachin’s resume
+ - Do read my resume here: [Sachin's resume](https://drive.google.com/file/d/1C5fSUoyGlsMuwD-0c0RcfMlr6h6ioJXH/view?usp=sharing).
 
 
 
